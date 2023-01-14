@@ -47,7 +47,7 @@ A 'loosely coupled module structure' is no different from a 'scalable architectu
 Reading 1: [Loose Coupling of a Mobile App
 ](https://soojin.ro/blog/loose-coupling-en)
 <br>
-Reading 2: Learn Mobile Architecture and Development Experience from a Sourcery Developer](https://soojin.ro/blog/pragmatic-programmer-en)
+Reading 2: [Learn Mobile Architecture and Development Experience from a Sourcery Developer](https://soojin.ro/blog/pragmatic-programmer-en)
 
 ### Part 3. Automated Testing
 
