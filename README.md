@@ -1,5 +1,5 @@
 <a href="https://fastcampus.co.kr/dev_red_rsj?utm_source=soojin-github&utm_medium=readme&utm_campaign=soojin">
-  <img src="https://soojin.ro/assets/posts/fastcampus-0.png" />
+  <img src="https://github.com/nsoojin/MiniSuperApp-en/blob/main/assets/soojin.ro-point-web.png?raw=true" />
 </a>
 
 <div align = "center">
